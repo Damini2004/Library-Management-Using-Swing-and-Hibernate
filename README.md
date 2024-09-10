@@ -1,7 +1,20 @@
 # Library-Management-Using-Swing-and-Hibernate
  An Implemetation of Library Management System Using Swing and Hibernate.
+The Library Management System Using Swing and Hibernate is a desktop application designed to simplify library operations. The system features a Java Swing interface for managing books, patrons, and transactions, providing a user-friendly experience for library staff.
 
+Key Features:
 
+Book Management: Easily add, update, search, and delete books.
+Member Management: Register and update member information and track borrowing history.
+Transaction Management: Handle book check-ins and check-outs, manage due dates, and calculate fines.
+Reports: Generate detailed reports on books, members, and transactions.
+Technical Aspects:
+
+Swing: Used for the graphical user interface, making interaction intuitive and efficient.
+Hibernate: Handles data persistence with ORM, simplifying database operations and queries.
+The system is built using the MVC pattern for organized code structure and can be adapted for both single-user and multi-user environments. Additional features include user authentication, automated notifications, and data backup. This solution enhances operational efficiency and provides a scalable platform for future growth.
+
+(UI OF OUR PROJECT IS BEING UPDATING, ABOVE LINK IS ONLY FOR REFERENCE PURPOSE)
 
 Admin Library Management (Damini Chachane) 
 ![image](https://github.com/user-attachments/assets/a29bca46-17fd-4029-9941-e934d536232a)
