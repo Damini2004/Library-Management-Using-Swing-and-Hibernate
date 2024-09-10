@@ -33,6 +33,7 @@ The system is built using the MVC pattern for organized code structure and can b
 
  ## Log in (Riya Patil)
 ![WhatsApp Image 2024-09-10 at 16 45 20_a489c656](https://github.com/user-attachments/assets/70cae705-b51d-432d-a516-f54852a87784)
+![WhatsApp Image 2024-09-10 at 22 48 34_3ee1e87b](https://github.com/user-attachments/assets/e886e354-8c31-44b6-84eb-55a3176b91f5)
 
 ## Registration (Ayush Pinjarkar)
-![WhatsApp Image 2024-09-10 at 22 48 34_3ee1e87b](https://github.com/user-attachments/assets/e886e354-8c31-44b6-84eb-55a3176b91f5)
+![image](https://github.com/user-attachments/assets/3280fe67-3fc4-47a9-b8bf-e0f559d7c679)
